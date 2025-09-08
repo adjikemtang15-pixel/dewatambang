@@ -96,8 +96,7 @@ export default function Home() {
           {/* Copyright */}
           <div className="border-t border-slate-800 mt-8 pt-6 text-center">
             <p className="text-gray-500 text-sm">
-              © 2025 MLRPCrafting. All rights reserved. | Made for MotionLife
-              RP Community
+              
             </p>
           </div>
         </div>
