@@ -233,7 +233,7 @@ export default function InfoPage() {
               <span className="text-white"> & Harga</span>
             </h1>
             <p className="text-xl text-gray-300 mb-2">
-              Daftar Lengkap Bahan dan Harga MLRP
+              harga barang
             </p>
             <p className="text-sm text-gray-400 max-w-2xl mx-auto">
               silahkan yg mau convert
@@ -575,8 +575,7 @@ export default function InfoPage() {
           {/* Copyright */}
           <div className="border-t border-slate-800 mt-8 pt-6 text-center">
             <p className="text-gray-500 text-sm">
-              © 2025 MLRPCrafting. All rights reserved. | Made for MotionLife
-              RP Community
+              rr
             </p>
           </div>
         </div>
