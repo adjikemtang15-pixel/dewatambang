@@ -236,9 +236,8 @@ export default function InfoPage() {
               Daftar Lengkap Bahan dan Harga MLRP
             </p>
             <p className="text-sm text-gray-400 max-w-2xl mx-auto">
-              Informasi lengkap mengenai semua item, requirement, dan harga jual
-              di MotionLife RP. Termasuk perhitungan profit dan rekomendasi
-              crafting.
+              silahkan yg mau convert
+
             </p>
           </div>
         </div>
