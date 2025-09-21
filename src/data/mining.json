@@ -8,13 +8,13 @@
       "require": {
         "copper_ore": 2
       },
-      "price": 19
+      "price": 26
     },
     "iron_ingot": {
       "require": {
         "iron_ore": 2
       },
-      "price": 19
+      "price": 26
     },
     "gold_ingot": {
       "require": {
@@ -32,20 +32,20 @@
       "require": {
         "alluminium_ore": 2
       },
-      "price": 13
+      "price": 18
     },
     "steel_ingot": {
       "require": {
         "coal": 1,
         "iron_ore": 2
       },
-      "price": 56
+      "price": 75
     },
     "sapphire": {
       "require": {
         "uncut_sapphire": 1
       },
-      "price": 13
+      "price": 18
     },
     "diamond": {
       "require": {
@@ -91,21 +91,21 @@
         "gold_ring": 1,
         "ruby": 4
       },
-      "price": 351
+      "price": 468
     },
     "sapphire_ring": {
       "require": {
         "gold_ring": 1,
         "sapphire": 4
       },
-      "price": 210
+      "price": 280
     },
     "diamond_ring_silver": {
       "require": {
         "silver_ring": 1,
         "diamond": 4
       },
-      "price": 292
+      "price": 390
     },
     "emerald_ring_silver": {
       "require": {
@@ -234,7 +234,7 @@
         "gold_chain": 1,
         "emerald": 6
       },
-      "price": 700
+      "price": 934
     },
     "diamond_necklace_silver": {
       "require": {
