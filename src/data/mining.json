@@ -2,19 +2,19 @@
   "tambang": {
     "coal": {
       "require": {},
-      "price": 7
+      "price": 10
     },
     "copper_ingot": {
       "require": {
         "copper_ore": 2
       },
-      "price": 19
+      "price": 26
     },
     "iron_ingot": {
       "require": {
         "iron_ore": 2
       },
-      "price": 19
+      "price": 26
     },
     "gold_ingot": {
       "require": {
@@ -32,7 +32,7 @@
       "require": {
         "alluminium_ore": 2
       },
-      "price": 13
+      "price": 18
     },
     "steel_ingot": {
       "require": {
@@ -45,7 +45,7 @@
       "require": {
         "uncut_sapphire": 1
       },
-      "price": 13
+      "price": 18
     },
     "diamond": {
       "require": {
@@ -63,7 +63,7 @@
       "require": {
         "uncut_emerald": 1
       },
-      "price": 78
+      "price": 104
     }
   },
   "perhiasan": {
@@ -119,7 +119,7 @@
         "silver_ring": 1,
         "ruby": 4
       },
-      "price": 452
+      "price": 339
     },
     "sapphire_ring_silver": {
       "require": {
@@ -145,7 +145,7 @@
         "gold_earring": 1,
         "diamond": 2
       },
-      "price": 248
+      "price": 186
     },
     "ruby_earring": {
       "require": {
@@ -173,21 +173,21 @@
         "silver_earring": 1,
         "diamond": 2
       },
-      "price": 232
+      "price": 174
     },
     "ruby_earring_silver": {
       "require": {
         "silver_earring": 1,
         "ruby": 2
       },
-      "price": 264
+      "price": 198
     },
     "sapphire_earring_silver": {
       "require": {
         "silver_earring": 1,
         "sapphire": 2
       },
-      "price": 172
+      "price": 129
     },
     "emerald_earring_silver": {
       "require": {
