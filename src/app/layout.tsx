@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   icons:
     "https://cdn.discordapp.com/attachments/1382019709989290004/1382020202946101449/IMG_8208.png?ex=6892249d&is=6890d31d&hm=3ef25c941e0e30f1b1ed7c56432f7c6e84b346da3f59b135ce38b135951376b9&",
-  title: "dewa tambang motion life",
+  title: "dewa tambang",
   description:
     "buat yang suka tambang gass kan.",
 };
