@@ -18,10 +18,10 @@ export default function Home() {
               <span className="text-white">Crafting</span>
             </h1>
             <p className="text-xl text-gray-300 mb-2">
-              MotionLife RP Crafting Calculator
+              dewa tambang crafting
             </p>
             <p className="text-sm text-gray-400 max-w-2xl mx-auto">
-              Optimasi crafting untuk server MotionLife RP dengan calculator
+              Optimasi crafting untuk server dewa tambang dengan calculator
               yang mudah digunakan dan efisien untuk semua kebutuhan crafting
               Anda.
             </p>
@@ -47,10 +47,10 @@ export default function Home() {
             {/* About Section */}
             <div className="text-center md:text-left">
               <h3 className="text-lg font-semibold text-white mb-3">
-                MLRPCrafting
+                DEWATAMBANG CRAFT
               </h3>
               <p className="text-gray-400 text-sm leading-relaxed">
-                Calculator crafting terbaik untuk MotionLife RP. Optimalkan
+                Calculator crafting terbaik untuk DEWA TAMBANG. Optimalkan
                 hasil crafting Anda dengan perhitungan yang akurat dan strategi
                 terbaik.
               </p>
