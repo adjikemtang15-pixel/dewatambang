@@ -39,7 +39,7 @@
         "coal": 1,
         "iron_ore": 2
       },
-      "price": 75
+      "price": 56
     },
     "sapphire": {
       "require": {
